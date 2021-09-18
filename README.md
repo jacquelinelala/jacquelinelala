@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on adversarial learning, especially face editing, which is an interesting field.
+🔭 I’m currently working on 3D face reconstruction, face editing, etc.
 
 You may visit my [website](http://xinyizhang.tech) for furthur information. 
 <!--
